@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(132,19): warning C4018: '<': signed/unsigned mismatch
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(132,47): warning C4018: '<': signed/unsigned mismatch
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(148,19): warning C4018: '<': signed/unsigned mismatch
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(148,51): warning C4018: '<': signed/unsigned mismatch
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(162,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(163,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(167,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(168,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(169,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(170,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(439,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\Modern-OpenGL-Template\src\Main.cpp(478,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  3D_Solar-System.vcxproj -> C:\OpenGL_Projects\Modern-OpenGL-Template\x64\Debug\Modern-OpenGL-Template.exe
